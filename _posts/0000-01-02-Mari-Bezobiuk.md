@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Your text is *something*
 Use the left arrow to go back!
 . Start With a Purpose
 The introduction to your SRS is very important. 
